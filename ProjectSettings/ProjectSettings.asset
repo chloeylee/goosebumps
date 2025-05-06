@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 0e6126c19dbd76b4db12ca7ab7e7c1cc
+  productGUID: 8139f460c92c9a642b98c982e5e972d6
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -674,10 +674,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: 88bd5cd1-3ec1-44e7-8ba3-331cab2fe4d0
+  cloudProjectId: a29ba617-c6a6-4c11-b81d-0e3ce4c1513c
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: goosebumpies
+  projectName: goosebumpies 2025-05-06_14-37-52
   organizationId: chloester11204
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
