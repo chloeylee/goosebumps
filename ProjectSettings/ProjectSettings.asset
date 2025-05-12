@@ -672,13 +672,13 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 2
+  activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: a29ba617-c6a6-4c11-b81d-0e3ce4c1513c
+  cloudProjectId: 3b14d0c5-226f-478d-a4a8-ebfceca07c01
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: goosebumpies 2025-05-06_14-37-52
-  organizationId: chloester11204
+  projectName: goose
+  organizationId: grubbmeg7
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
